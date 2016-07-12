@@ -1,0 +1,97 @@
+{
+  "chain_id": "pizza",
+  "accounts": [
+    {
+      "address": "F6CAF406AF4E5867AFA8671DFA438214BFFBC5A8",
+      "amount": 9999999999,
+      "name": "pizza_root_000",
+      "permissions": {
+        "base": {
+          "perms": 16383,
+          "set": 16383
+        },
+        "roles": []
+      }
+    },
+    {
+      "address": "7A46E1BC0C21404EBBCC29037D947E9D403B882F",
+      "amount": 9999999999,
+      "name": "pizza_validator_000",
+      "permissions": {
+        "base": {
+          "perms": 32,
+          "set": 16383
+        },
+        "roles": []
+      }
+    },
+    {
+      "address": "4503DCAC1F7C52D4DEBA1D0B1EF3D5A765AAF072",
+      "amount": 9999999999,
+      "name": "pizza_validator_001",
+      "permissions": {
+        "base": {
+          "perms": 32,
+          "set": 16383
+        },
+        "roles": []
+      }
+    },
+    {
+      "address": "DCE86F11211A77EA51FA661BE1B820C0D936B714",
+      "amount": 9999999999,
+      "name": "pizza_validator_002",
+      "permissions": {
+        "base": {
+          "perms": 32,
+          "set": 16383
+        },
+        "roles": []
+      }
+    }
+  ],
+  "validators": [
+    {
+      "pub_key": [
+        1,
+        "B710CB30EFFA569EB592E68D23D333F5CAE733557D2AC9A8DF590E0D3D64415B"
+      ],
+      "name": "pizza_validator_000",
+      "amount": 9999999998,
+      "unbond_to": [
+        {
+          "address": "7A46E1BC0C21404EBBCC29037D947E9D403B882F",
+          "amount": 9999999998
+        }
+      ]
+    },
+    {
+      "pub_key": [
+        1,
+        "5F1499FFA5F5467DE6AB9EEC860D31224E9EB3E46540C9DFA6257D56798B90A3"
+      ],
+      "name": "pizza_validator_001",
+      "amount": 9999999998,
+      "unbond_to": [
+        {
+          "address": "4503DCAC1F7C52D4DEBA1D0B1EF3D5A765AAF072",
+          "amount": 9999999998
+        }
+      ]
+    },
+    {
+      "pub_key": [
+        1,
+        "4DCA699D1D4B772D9CAF2EEADDBA2BFCFA28F95B47A61B850381B9B00DBAB0B1"
+      ],
+      "name": "pizza_validator_002",
+      "amount": 9999999998,
+      "unbond_to": [
+        {
+          "address": "DCE86F11211A77EA51FA661BE1B820C0D936B714",
+          "amount": 9999999998
+        }
+      ]
+    }
+  ]
+}
