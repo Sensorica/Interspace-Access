@@ -1,0 +1,54 @@
+{
+	"dapp": {
+		"app": {
+			"title": "Access Manager"
+			, "buttons": {
+				"view1": "Rent space"
+			      , "view2": "Add space"
+			}
+			, "headers": {
+				"identicon": "Identicon"
+				, "address": "Address"
+				, "balance": "Balance"
+				, "account": "Account"
+				, "solidity": "Solidity Code"
+				, "coinbase": "Coinbase"
+				, "listening": "Listening"
+				, "peerCount": "Peer Count"
+				, "blockNumber": "Block Numbr"
+				, "defaultBlock": "Default Block"
+				, "mining": "Mining"
+				, "gasPrice": "Gas Price"
+			}
+			, "copyright": "Copyright © SENSORICA 2016. All Rights Reserved"
+		}
+		, "components": {
+			"balance": {
+				"header": "My Account"
+				, "original": "Identification keys"
+			}
+			, "accounts": {
+				"header": "My Credentials"
+				, "description": "These are your credential tokens"			
+			}
+			, "multiplyContract": {
+				"header": "Become a service provider"
+				, "description": "Create an identity and you will be contacted to add your space"
+				, "create": "Add Your Space "
+				, "deployed": "The contract was deployed to this address"
+				, "placeholder": "Number To Multiply"
+			}
+			, "networkHealth": {
+				"header": "Network Health"			
+			}
+		}
+		, "view1": {
+			"title": "View 1"
+			, "defaultName": "View1"
+		}
+		, "view2": {
+			"title": "View 2"
+			, "defaultName": "View2"
+		}
+	}
+}
