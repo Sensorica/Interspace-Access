@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # meteor-dapp-boilerplate
 
 A starting point for decentralized MeteorJS applications. Includes Ethereum.js, iron-router, Bootstrap 3, Font Awesome, LESS and more.
@@ -135,3 +136,9 @@ Please refer to this page for more on unit testing in Meteor: https://velocity.r
 ## <a name="license"></a> License
 
 Released under the MIT License, see LICENSE file.
+=======
+# Interspace-Access
+Blockchain based access management
+
+
+>>>>>>> 98270a3a209ddf078016f48989ad216349542f78
