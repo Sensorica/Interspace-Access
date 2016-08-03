@@ -1,3 +1,4 @@
+#requires eris-contracts.js : https://github.com/eris-ltd/eris-contracts.js
 var erisC = require('eris-contracts');
 
 var erisdbURL = "http://localhost:1337/rpc";
