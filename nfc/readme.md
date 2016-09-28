@@ -1,1 +1,0 @@
-NFC hardware and software
