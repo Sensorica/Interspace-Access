@@ -1,0 +1,8 @@
+jobs:
+
+- name: AccessManager
+  job:
+    deploy:
+      contract: DealManager.sol
+      instance: all
+      wait: true
